@@ -1,0 +1,116 @@
+/* ul li{
+    position: relative;
+}
+
+ul li i{
+    color: red;
+    position: absolute;
+    top: 13px;
+    right: 10px;
+}
+
+.sidebar{
+    width: 300px;
+    height: 100vh;
+    background-color: magenta;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    transition: all 0.5s;
+}
+
+.move-sidebar{
+    transform: translate(-250px,0);
+}
+
+.sidebar i{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.sidebar i:hover{
+    color: black;
+}
+
+.sidebar ul{
+    margin-top: 50px;
+    list-style: none;
+}
+
+.sidebar ul li{
+    line-height: 60px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.sidebar ul li a{
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+}
+
+
+.sidebar ul li a:hover{
+    color: black;
+} */
+
+
+/* .all{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sidebar2{
+    width: 300px;
+    height: 96vh;
+    background-color: magenta;
+    display: flex;
+    justify-content: end;
+    position: relative;
+    transition: all 0.5s;
+}
+
+.move-sidebar2{
+    transform: translate(240px,0);
+}
+
+.sidebar2 i{
+    position: absolute;
+    top: 10px;
+    right: 16rem;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.sidebar2 i:hover{
+    color: black;
+}
+
+.sidebar2 ul{
+    margin-top: 50px;
+    list-style: none;
+}
+
+.sidebar2 ul li{
+    line-height: 60px;
+    font-size: 30px;
+    font-weight: 800;
+    margin-right: 5rem;
+}
+
+.sidebar2 ul li a{
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+}
+
+.sidebar2 ul li a:hover{
+    color: black;
+}  */
